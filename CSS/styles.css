@@ -1,0 +1,27 @@
+body {
+   background-color: #B5F4FF;
+}
+
+h1 {
+    font-family: Helvetica;
+}
+header {
+    background-color: #007bff;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+}
+#contenido {
+    padding: 40px;
+}
+#contenido h2 {
+    font-size: 40px;
+}
+#contenido p {
+    font-size: 20px;
+    color: green
+}
