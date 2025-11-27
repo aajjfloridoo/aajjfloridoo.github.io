@@ -17,6 +17,9 @@ a:hover {
 }
 #contenido {
     padding: 40px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 #contenido h2 {
     font-size: 40px;
@@ -24,4 +27,12 @@ a:hover {
 #contenido p {
     font-size: 20px;
     color: green
+}
+footer {
+ background-color: #333;
+}
+footer p {
+    color: white;
+    text-align: center;
+    padding: 20px;
 }
